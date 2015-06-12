@@ -11,7 +11,7 @@
   "repository": {
       "type": "git",
       "url": "https://github.com/dreef3/tinkoff2ofx.git"
-  }
+  },
   "author": "Andrey Ermakov (dreef3@gmail.com)",
   "license": "MIT",
   "dependencies": {
