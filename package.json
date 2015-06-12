@@ -1,0 +1,20 @@
+{
+  "name": "tinkoff2ofx",
+  "version": "0.0.1",
+  "description": "Converts Tinkoff Credit Systems CSV to OFX format",
+  "bin": {
+      "tinkoff2ofx": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/dreef3/tinkoff2ofx.git"
+  }
+  "author": "Andrey Ermakov (dreef3@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "babyparse": "^0.4.3"
+  }
+}
